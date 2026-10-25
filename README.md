@@ -21,6 +21,10 @@ dsh plugin add @soliecho/dsh-anime-follow
 2. 选一个字幕组订阅，插件补齐已更新的集数，之后按间隔轮询新集
 3. 面板里看进度，点击已下载的集数用系统默认播放器打开
 
+![搜索番剧并选择字幕组](https://raw.githubusercontent.com/soliecho/dsh-anime-follow/main/docs/search.png)
+
+![详情与集数状态](https://raw.githubusercontent.com/soliecho/dsh-anime-follow/main/docs/detail.png)
+
 订阅列表为空时，打开插件会显示首次配置引导。
 
 ## 配置
