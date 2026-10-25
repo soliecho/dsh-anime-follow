@@ -1,0 +1,4 @@
+# dsh-anime-follow bundle patch: mount the plugin in the desktop profile.
+- insert:
+    - id: anime-follow
+      name: "@soliecho/dsh-anime-follow"
